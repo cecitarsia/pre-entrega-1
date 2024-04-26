@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Vino Malbec Las Perdices",
+    "description": "Esta es una bebida",
+    "code": "ABC101",
+    "price": 43,
+    "status": true,
+    "stock": 50,
+    "category": "Vinos",
+    "thumbnail": null
+  },
+  {
+    "id": 3,
+    "title": "Gin Bosque",
+    "description": "Esta es una bebida",
+    "code": "ABC103",
+    "price": 80,
+    "status": true,
+    "stock": 120,
+    "category": "Destilados",
+    "thumbnail": null
+  }
+]
